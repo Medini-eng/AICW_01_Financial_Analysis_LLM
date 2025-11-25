@@ -1,0 +1,9 @@
+.env
+uploads/
+transactions.pkl
+__pycache__/
+*.pyc
+.vscode/
+.venv/
+env/
+.idea/
