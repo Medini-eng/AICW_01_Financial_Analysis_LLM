@@ -132,7 +132,3 @@ curl http://127.0.0.1:8000/_env
 - DO NOT commit API keys. Rotate any exposed keys immediately.
 - Use environment variables or a secrets manager in production.
 
-If you want, I can also add:
-- `requirements.txt`
-- a git-safe `.env.example`
-- unit tests for `process_transactions`
